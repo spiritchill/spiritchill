@@ -22,7 +22,7 @@
 
 ### - Hobbies : 
 - ✨ Love to play chess
-- ✨ Watching Anime
+- ✨ Coding 
 - ✨ Reading Light Novels
 - ✨ Football on weekends
 
@@ -47,7 +47,7 @@
 </br>
 </br>
 
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/erenyaegar?ext=heatmap)
 
 # Contact Me :
 
