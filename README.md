@@ -22,9 +22,9 @@
 
 ### - Hobbies : 
 - ✨ Love to play chess
-- ✨ Coding 
+- ✨ Solving leetcode problems
 - ✨ Reading Light Novels
-- ✨ Football on weekends
+- ✨ Video Editing 
 
 </br>
 </br>
