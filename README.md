@@ -31,6 +31,18 @@
 </br>
 
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/spiritchill/spiritchill/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+
+
 
 # Skills & Tools 👨‍💻 🛠:
 </br>
